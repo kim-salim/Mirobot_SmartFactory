@@ -52,7 +52,7 @@ YOLO 기반 객체 인식
 픽앤플레이스 동작 수행
     ↓
 큐브 정리 및 구조 재현
-
-
+```
+## 대회 이미지
 <img width="5712" height="4284" alt="동아리 경진대회" src="https://github.com/user-attachments/assets/fcf4ea0f-0afd-4128-b2a4-3616f2792308" />
 
